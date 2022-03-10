@@ -1,6 +1,6 @@
 # Alternative 2
 
-I have chosen to do the Alternative 2 exercise. I have commented the necessary steps inside the code to make it more readable. I hope I succeeded in that. Additionally, here is an overall step-by-step description of my program:
+I have chosen to do the Alternative 2 exercise. I have commented the necessary steps inside the code to make it more readable. Yet I dont think it works inside of github and I couldn't figure out how to change that. I hope it is a little easier to understand anyway. Additionally, here is an overall step-by-step description of my program:
 
 1. I import the necessary modules
 2. I chose to use a class to get define the way how my program should process the standard questions that had the same answer structure.
